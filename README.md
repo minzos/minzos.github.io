@@ -1,2 +1,2 @@
 # minzos.github.io
-Minzos Is Not z/OS
+MinzOS is not z/OS
